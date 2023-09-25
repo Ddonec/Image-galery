@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Футер  */
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  background: rgba(105, 104, 104, 0.337);
+  padding: 20px 0;
+  color: aliceblue;
+}
+.icon-f {
+  height: 20px;
+  line-height: 20px;
+  font-size: 20px;
+}
+.social {
+  display: flex;
+  gap: 30px;
+}
+.rsschooldiv {
+  width: 120px;
+}
+.cop {
+  font-size: 10px;
+}
+.icon-f {
+  color: black;
+}
